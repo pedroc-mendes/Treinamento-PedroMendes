@@ -4,6 +4,8 @@ package-lock.json
 .vscode/
 dist/
 .env
-*.gc
+*.gz
 tmp/uploads/*
-[tmp/uploads/.gitkeep
+!tmp/uploads/.gitkeep
+.idea/
+
